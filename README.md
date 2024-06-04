@@ -20,6 +20,4 @@ I'm a passionate full stack developer based in Christchurch, New Zealand. I buil
 
 
 ## 📫 How to reach me
-
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- Email: Alex.hughes90.ah@gmail.com
