@@ -15,7 +15,6 @@ I'm a passionate full stack developer based in Christchurch, New Zealand. I buil
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrmcmxc&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrmcmxc&layout=compact&theme=radical)
 
 
