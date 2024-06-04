@@ -10,6 +10,7 @@ I'm a passionate full stack developer based in Christchurch, New Zealand. I buil
 
 - **Frontend:** React.js, React Native, Expo, NativeWind
 - **Backend:** Node.js, Express.js, Appwrite
+- **Database:** Firestore, SQL
 - **Cloud:** AWS
 
 ## 📊 GitHub Stats
